@@ -203,11 +203,11 @@ Each detector returns a dictionary with:
 
 ## License
 
-[Insert License Information]
+This project is open-source and available under the MIT License.
 
 ## Contributors
 
-[sharath yanamandra]
+sharath yanamandra
 
 ## Acknowledgements
 
